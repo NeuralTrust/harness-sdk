@@ -1,5 +1,5 @@
 name: strands-neuraltrust
-description: TrustGuard intervention that evaluates agent input, model responses, tool arguments, and tool results, with blocking and validated redaction.
+description: TrustGuard intervention that evaluates agent input, model responses, tool arguments, and tool results, with blocking and validated transformation.
 integrationType: intervention
 maintainedBy: partner
 languages:
